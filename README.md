@@ -1,1 +1,6 @@
-# This is a practice repo if I keep typing I wonder if subconscious thoughts will come to the surface therefore making this a kind of introspective exercise I wonder if anyone else has thought of this before man I wonder if I could be the first one to discover it and be like all of those self-help gurus with meditation ideas and TEDTalks and all that crap ok I think this has gone on long enough
+# JupyterLab Practice
+## Gabriel Smith
+
+This is a practice repo meant to demonstrate some of the skills commonly used when dealing with JupyterLab on a regular basis. 
+
+assignment_07.ipynb is the main assignment notebook, with question11.ipynb and question12.ipynb being supplements.
